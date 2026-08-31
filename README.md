@@ -9,7 +9,9 @@
 
 **2.Objectives :**
 • To develop a system that identifies product aspects and their sentiments, instead of only overall sentiment.
+
 • This helps e-commerce and product companies to understand feature-level customer opinions for better decision-making.
+
 • Identify specific aspects (features) mentioned in reviews. 
 • Determine sentiment for each aspect as Positive / Negative / Neutral. 
 • Provide overall sentiment when there is no aspect. 
