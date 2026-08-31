@@ -8,15 +8,21 @@
  This makes aspect identification and accurate sentiment classification challenging.
 
 **2.Objectives :**
+
 • To develop a system that identifies product aspects and their sentiments, instead of only overall sentiment.
 
 • This helps e-commerce and product companies to understand feature-level customer opinions for better decision-making.
 
 • Identify specific aspects (features) mentioned in reviews. 
-• Determine sentiment for each aspect as Positive / Negative / Neutral. 
-• Provide overall sentiment when there is no aspect. 
-• Ensure accurate analysis using BERT-based deep learning model. 
-• Present results through an interactive dashboard with charts and tables. 
+
+• Determine sentiment for each aspect as Positive / Negative / Neutral.
+
+• Provide overall sentiment when there is no aspect.
+
+• Ensure accurate analysis using BERT-based deep learning model.
+
+• Present results through an interactive dashboard with charts and tables.
+
 • Support better decision-making for product with clear, feature-level insights.
 
 **3.NLP Technique :**
