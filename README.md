@@ -32,6 +32,9 @@ Tokenization, word embedding , context understanding , aspect extraction , senti
 BERT (Bidirectional Encoder Representations from Transformers) is a deep learning model used for Natural Language Processing (NLP) tasks
 
 **5.Future enhancement :**
-• Dynamic Aspect Extraction which allows the model to identify implicit and unseen aspects more effectively
+
+• Dynamic Aspect Extraction which allows the model to identify implicit and unseen aspects more effectively.
+
 • Multilingual Analysis can also be added to make the system more versatile.
+
 • Live Review Analysis.
