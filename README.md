@@ -1,7 +1,7 @@
 ## Aspect Based Sentiment Analysis (ABSA)
 
 **1.Problem Statement :**
-• A single product review often includes multiple features, each expressing different sentiments.
+• A single product review often includes multiple features, each expressing different sentiments. 
 • Traditional methods treat reviews as single unit, losing detailed insights.
 • Product reviews are unstructured and noisy, containing:
      Spelling mistakes ,Mixed language usage ,Slang and informal expressions ,Emojis ,Symbols.
