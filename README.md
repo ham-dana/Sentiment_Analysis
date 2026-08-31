@@ -1,6 +1,7 @@
 ## Aspect Based Sentiment Analysis (ABSA)
 
 **1.Problem Statement :**
+
  A single product review often includes multiple features, each expressing different sentiments. 
  Traditional methods treat reviews as single unit, losing detailed insights.
  Product reviews are unstructured and noisy, containing:
@@ -26,9 +27,11 @@
 • Support better decision-making for product with clear, feature-level insights.
 
 **3.NLP Technique :**
+
 Tokenization, word embedding , context understanding , aspect extraction , sentiment classification , deep learning , text normalization.
 
 **4.BERT model:**
+
 BERT (Bidirectional Encoder Representations from Transformers) is a deep learning model used for Natural Language Processing (NLP) tasks
 
 **5.Future enhancement :**
